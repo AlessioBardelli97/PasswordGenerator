@@ -1,0 +1,5 @@
+Utilizzare ./generaPassword.sh [n:int]
+per generare una password casuale di n caratteri.
+se non si specifica n, sarà generata una
+password di 8 caratteri.
+
