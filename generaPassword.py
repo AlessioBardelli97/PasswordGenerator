@@ -23,7 +23,7 @@ if __name__ == '__main__':
     alpha = 'abcdefghikjlmnopqrstuvwxyz'
     ALPHA = alpha.upper()
     digit = '0123456789'
-    special = '€£$%&-_+'
+    special = '€£$%&'
 
     chrs = alpha + ALPHA + digit + special
 
